@@ -1,0 +1,13 @@
+{
+  "name": "challenge-web",
+  "version": "1.0.0",
+  "private": true,
+  "description": "SAIC ICM 工程模式挑战码 -> 密码",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
